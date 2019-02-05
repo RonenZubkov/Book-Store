@@ -1,0 +1,11 @@
+1.Rewriting Code to Ajax + JWT ( First Attempt was unsuccessfully)
+2.Password Salting + Md5.
+3.//$dotenv = new Dotenv\Dotenv(__DIR__ . ''); Installing and saving all Usernames and password with Dotenv.
+4.ID new library light ID or something like that.
+5.Making Routing ( Router ).
+6.Symphony and composer?
+7. Bullet proof Sessions: https://blog.teamtreehouse.com/how-to-create-bulletproof-sessions
+8.Htaccess missing.
+9.Data organizing with Framework Larvel / Symphony
+10. MVC Restrcture.
+11.Products dosent render after creation needs to refresh // ajax
